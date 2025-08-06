@@ -1,0 +1,72 @@
+{
+    "1001":{
+        "Name":"Lena Brooks",
+        "Book Name":"Educated",
+        "User ID":1013,
+        "Book ID":1011,
+        "Issued On":"03-07-2025",
+        "Due On":"10-07-2025",
+        "Returned On":"10-07-2025",
+        "Late Return":false
+    },
+    "1002":{
+        "Name":"Ava Carter",
+        "Book Name":"Dune",
+        "User ID":1010,
+        "Book ID":1007,
+        "Issued On":"07-07-2025",
+        "Due On":"14-07-2025",
+        "Returned On":"16-07-2025",
+        "Late Return":true
+    },
+    "1003":{
+        "Name":"Zane Reed",
+        "Book Name":"1984",
+        "User ID":1002,
+        "Book ID":1005,
+        "Issued On":"10-07-2025",
+        "Due On":"17-07-2025",
+        "Returned On":"15-07-2025",
+        "Late Return":false
+    },
+    "1004":{
+        "Name":"Maya Wells",
+        "Book Name":"Invisible Man",
+        "User ID":1011,
+        "Book ID":1015,
+        "Issued On":"12-07-2025",
+        "Due On":"19-07-2025",
+        "Returned On":"19-07-2025",
+        "Late Return":false
+    },
+    "1005":{
+        "Name":"Jace Fox",
+        "Book Name":"Brave New World",
+        "User ID":1003,
+        "Book ID":1014,
+        "Issued On":"15-07-2025",
+        "Due On":"22-07-2025",
+        "Returned On":"22-07-2025",
+        "Late Return":false
+    },
+    "1006":{
+        "Name":"Daniel Ray",
+        "Book Name":"The Hobbit",
+        "User ID":1006,
+        "Book ID":1016,
+        "Issued On":"13-07-2025",
+        "Due On":"20-07-2025",
+        "Returned On":"24-07-2025",
+        "Late Return":true
+    },
+    "1007":{
+        "Name":"Ava Carter",
+        "Book Name":"Pride and Prejudice",
+        "User ID":1010,
+        "Book ID":1017,
+        "Issued On":"01-07-2025",
+        "Due On":"08-07-2025",
+        "Returned On":"07-07-2025",
+        "Late Return":false
+    }
+}

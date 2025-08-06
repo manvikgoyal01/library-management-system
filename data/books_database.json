@@ -1,0 +1,163 @@
+{
+    "1001":{
+        "Book Name":"To Kill a Mockingbird",
+        "Author":"Harper Lee",
+        "Genre":"Classic",
+        "Total":5,
+        "Available":3
+    },
+    "1002":{
+        "Book Name":"1984",
+        "Author":"George Orwell",
+        "Genre":"Dystopian",
+        "Total":4,
+        "Available":2
+    },
+    "1003":{
+        "Book Name":"The Great Gatsby",
+        "Author":"F. Scott Fitzgerald",
+        "Genre":"Classic",
+        "Total":6,
+        "Available":6
+    },
+    "1004":{
+        "Book Name":"Sapiens",
+        "Author":"Yuval Noah Harari",
+        "Genre":"History",
+        "Total":3,
+        "Available":2
+    },
+    "1005":{
+        "Book Name":"The Hobbit",
+        "Author":"J.R.R. Tolkien",
+        "Genre":"Fantasy",
+        "Total":7,
+        "Available":5
+    },
+    "1006":{
+        "Book Name":"The Catcher in the Rye",
+        "Author":"J.D. Salinger",
+        "Genre":"Classic",
+        "Total":4,
+        "Available":1
+    },
+    "1007":{
+        "Book Name":"Atomic Habits",
+        "Author":"James Clear",
+        "Genre":"Self-Help",
+        "Total":8,
+        "Available":7
+    },
+    "1008":{
+        "Book Name":"Educated",
+        "Author":"Tara Westover",
+        "Genre":"Memoir",
+        "Total":4,
+        "Available":2
+    },
+    "1009":{
+        "Book Name":"The Alchemist",
+        "Author":"Paulo Coelho",
+        "Genre":"Philosophy",
+        "Total":6,
+        "Available":3
+    },
+    "1010":{
+        "Book Name":"The Midnight Library",
+        "Author":"Matt Haig",
+        "Genre":"Fiction",
+        "Total":5,
+        "Available":5
+    },
+    "1011":{
+        "Book Name":"Harry Potter and the Prisoner of Azkaban",
+        "Author":"J.K. Rowling",
+        "Genre":"Fantasy",
+        "Total":9,
+        "Available":7
+    },
+    "1012":{
+        "Book Name":"Inferno",
+        "Author":"Dan Brown",
+        "Genre":"Thriller",
+        "Total":6,
+        "Available":4
+    },
+    "1013":{
+        "Book Name":"Thinking, Fast and Slow",
+        "Author":"Daniel Kahneman",
+        "Genre":"Psychology",
+        "Total":4,
+        "Available":4
+    },
+    "1014":{
+        "Book Name":"Becoming",
+        "Author":"Michelle Obama",
+        "Genre":"Biography",
+        "Total":5,
+        "Available":3
+    },
+    "1015":{
+        "Book Name":"Dune",
+        "Author":"Frank Herbert",
+        "Genre":"Science Fiction",
+        "Total":7,
+        "Available":6
+    },
+    "1016":{
+        "Book Name":"Pride and Prejudice",
+        "Author":"Jane Austen",
+        "Genre":"Romance",
+        "Total":5,
+        "Available":4
+    },
+    "1017":{
+        "Book Name":"The Silent Patient",
+        "Author":"Alex Michaelides",
+        "Genre":"Mystery",
+        "Total":3,
+        "Available":2
+    },
+    "1018":{
+        "Book Name":"The Psychology of Money",
+        "Author":"Morgan Housel",
+        "Genre":"Finance",
+        "Total":5,
+        "Available":5
+    },
+    "1019":{
+        "Book Name":"The Subtle Art of Not Giving a Fudge",
+        "Author":"Mark Manson",
+        "Genre":"Self-Help",
+        "Total":6,
+        "Available":4
+    },
+    "1020":{
+        "Book Name":"Zero to One",
+        "Author":"Peter Thiel",
+        "Genre":"Entrepreneurship",
+        "Total":3,
+        "Available":2
+    },
+    "1021":{
+        "Book Name":"The Road",
+        "Author":"Cormac McCarthy",
+        "Genre":"Post-Apocalyptic",
+        "Total":4,
+        "Available":3
+    },
+    "1022":{
+        "Book Name":"Steve Jobs",
+        "Author":"Walter Isaacson",
+        "Genre":"Biography",
+        "Total":5,
+        "Available":3
+    },
+    "1023":{
+        "Book Name":"The Shining",
+        "Author":"Stephen King",
+        "Genre":"Horror",
+        "Total":6,
+        "Available":5
+    }
+}
