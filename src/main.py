@@ -187,6 +187,10 @@ def main():
             case "15" if user.role == "Librarian":
                 tid = target_id.get_pid()
                 manage_people.add_person(tid)
+
+            #if no valid option (or no access to that option for student)
+            case _:
+                print("\nPlease choose a valid option. Enter 'options' to view the list.")
     
     #completing the exit process
     #asks if user wants to update the database for changes made during their session activity
@@ -206,4 +210,5 @@ def main():
             print("\nPlease enter 'Save' or 'Dont Save'.")
 
 if __name__ == "__main__" :
+
     main()
