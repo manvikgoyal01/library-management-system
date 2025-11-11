@@ -1,4 +1,0 @@
-pandas
-rapidfuzz
-
-# Requires Python 3.10 or higher due to match-case syntax
